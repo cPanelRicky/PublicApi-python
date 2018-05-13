@@ -35,9 +35,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LICENSE.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../PublicApi-python/LICENSE.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PublicApi-python/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
@@ -49,20 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../PublicApi-python/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../PublicApi-python/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="870">
+              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
             </state>
           </provider>
         </entry>
@@ -96,6 +100,8 @@
         <option value="$PROJECT_DIR$/../PublicApi-python/PublicApi/PublicAPI.py" />
         <option value="$PROJECT_DIR$/../PublicApi-python/requirements.txt" />
         <option value="$PROJECT_DIR$/../PublicApi-python/setup.py" />
+        <option value="$PROJECT_DIR$/../PublicApi-python/LICENSE.txt" />
+        <option value="$PROJECT_DIR$/../PublicApi-python/.gitignore" />
       </list>
     </option>
   </component>
@@ -229,13 +235,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PublicApi-python/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PublicApi-python/PublicApi/PublicAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -256,9 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PublicApi-python/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PublicApi-python/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -268,8 +264,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../PublicApi-python/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PublicApi-python/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PublicApi-python/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
